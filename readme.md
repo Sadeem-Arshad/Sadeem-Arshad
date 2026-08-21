@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sadeem-Arshad/Sadeem-Arshad/main/batman-signal.svg" width="500" alt="Bat Signal" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=FCD53F&background=0D1117&center=true&vCenter=true&width=680&lines=Data+Science+Student+%40+FAST-NU+Lahore;Building+AI%2FML+%2B+Full-Stack+Systems;It's+not+who+I+am+underneath...;...but+what+I+deploy+that+defines+me." alt="Typing SVG" />
 </p>
 
